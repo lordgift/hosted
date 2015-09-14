@@ -1,0 +1,44 @@
+Visit:
+http://www.kaizentemplate.com
+http://www.kaizenthemes.com
+
+How to install Blogger templates
+
+1. Log in to your Blogger dashboard and go to Edit HTML  
+
+2. Enter the location of your template and Upload the XML file template
+3. Upload Js [javascript] file to your file hosting, copy link and replace in like this:
+
+
+]]></b:skin>
+
+   <script src='http://yourhosting.com/....js' type='text/javascript'/>
+
+
+              
+
+How to replace labels posts/ To add content Post widget follow this step
+
+    1. on Dashbord Blogger Click Layout
+    2. Click Edit  HTML/Javascript
+    3. Just Write your label
+    4. Save.
+    
+How to post of Youtube video ..?
+
+Every post adding this code below and replace just 2 code "VideoIdhere" with code video from youtube (e.g: e5wfYPXAjl8) :
+
+
+
+<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube.com/embed/VideoIdhere" width="640"></iframe>
+<img border="0" class="videos" height="0" src="http://i.ytimg.com/vi/VideoIdhere/0.jpg" width="0" /> 
+<br />
+Textdescription ...
+
+
+
+
+Template Distributed By  http://kaizentemplate.com/
+
+PLEASE.. do not remove, replace or change converter/Designer link in the footer!
+
